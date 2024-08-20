@@ -21,6 +21,13 @@ I am a passionate Computer Systems Engineer, driven by a curiosity and the passi
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Diving into MongoDB to lear the pros and cons of a NoSQL database.
+  - Learning about the MERN, MEVN and MEAN stack.
+
+## 🏆 Projects
+
+- 🌟 Terminal - Created a Terminal simulation using JQuery, JS and HTML/CSS.
+- 🌟 Weather API - A webpage where you can look the weather by typing the name in it.
+- 🌟 Pokedex - The old reliable PokeAPI project.
 
 ## 📬 Get in Touch
 
