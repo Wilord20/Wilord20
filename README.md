@@ -2,8 +2,6 @@
 
 I am a passionate Computer Systems Engineer, driven by a curiosity and the passion for learning. My journey involves delving into the world of computer science, exploring new ideas, and learn something new every day.
 
-![<Wilord20>'s Stats](https://github-readme-stats.vercel.app/api?username=Wilord20&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🔭 I'm currently looking to be a Full-stack developer.
@@ -33,6 +31,7 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 
 
 <!--
+![<Wilord20>'s Stats](https://github-readme-stats.vercel.app/api?username=Wilord20&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 Here are some ideas to get you started:
 
