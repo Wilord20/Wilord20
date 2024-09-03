@@ -11,7 +11,21 @@ I am a passionate Computer Systems Engineer, driven by a curiosity and the passi
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,js,html,css,cs,azure,java,linux,mongodb,mysql,nodejs,postgres,py,react,sqlite,vscode&perline=20" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cs,java,nodejs,py,react&perline=20" />
+  </a>
+</p>
+
+## Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=20" />
+  </a>
+</p>
+
+## Software
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,azure,linux,vscode&perline=20" />
   </a>
 </p>
 
