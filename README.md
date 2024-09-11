@@ -42,6 +42,7 @@ I am a passionate Computer Systems Engineer, driven by a curiosity and the passi
 - 🌟 Terminal - Created a Terminal simulation using JQuery, JS and HTML/CSS.
 - 🌟 Weather API - A webpage where you can look the weather by typing the name in it.
 - 🌟 Pokedex - The old reliable PokeAPI project.
+- 🌟 Hotel Booking App - Working on it...
 
 ## 📬 Get in Touch
 
